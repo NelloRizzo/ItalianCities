@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/load_cities"
+        app:showAsAction="never"
+        android:title="@string/load_cities_menu_item" />
+    <item
+        android:id="@+id/handle_database"
+        app:showAsAction="never"
+        android:title="@string/handle_dabatase"/>
+</menu>

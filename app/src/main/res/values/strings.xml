@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Città d\'Italia</string>
+    <string name="file_name_label">Nome del File</string>
+    <string name="btn_load_label">Carica File</string>
+    <string name="alert_select_province">Nessuna provincia selezionata</string>
+    <string name="load_cities_menu_item">Carica da file</string>
+    <string name="handle_dabatase">Database</string>
+    <string name="database_load">Carica Dati su Database</string>
+    <string name="province_count_label">Province caricate:</string>
+</resources>
