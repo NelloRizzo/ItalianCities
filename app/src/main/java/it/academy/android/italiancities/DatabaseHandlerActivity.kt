@@ -61,6 +61,7 @@ class DatabaseHandlerActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        // chiudo la finestra
         if (item.itemId == android.R.id.home)
             finish()
         return super.onOptionsItemSelected(item)
